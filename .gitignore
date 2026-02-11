@@ -1,0 +1,6 @@
+MASTER_EXECUTION_PLAN.md
+private-notes/
+drafts/
+*.secret.*
+weekly-drafts/*
+.env
